@@ -3,7 +3,7 @@
 <br>
 # Denis Vishnevski
 
-[English](#id0) [Русский](#id1) [Polski](#id3)
+[English](#id0 "CV in English") [Русский](#id1 "Резюме на русском языке") [Polski](#id3 "CV w języku polskim")
 ___
 
 
@@ -89,7 +89,7 @@ ___
 
 # Денис Вишневский
 
-[English](#id2) [Русский](#id0) [Polski](#id3)
+[English](#id2 "CV in English") [Русский](#id0 "Резюме на русском языке") [Polski](#id3 "CV w języku polskim")
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 # Denis Wiszniewski
 
-[English](#id2) [Русский](#id1) [Polski](#id0)
+[English](#id2 "CV in English") [Русский](#id1 "Резюме на русском языке") [Polski](#id0 "CV w języku polskim")
 
 ___
 
