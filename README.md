@@ -3,7 +3,7 @@
 
 # Denis Vishnevski
 
-[English](#id0) [Русский](#id1) [Polski](id3)
+[English](#id0) [Русский](#id1) [Polski](#id3)
 ___
 
 
@@ -84,7 +84,7 @@ ___
 
 # Денис Вишневский
 
-[English](#id2) [Русский](#id0) [Polski](id3)
+[English](#id2) [Русский](#id0) [Polski](#id3)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 # Denis Wiszniewski
 
-[English](#id2) [Русский](#id1) [Polski](id0)
+[English](#id2) [Русский](#id1) [Polski](#id0)
 
 ___
 
