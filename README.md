@@ -1,8 +1,5 @@
 <a id="id2"></a>
 
----
----
-
 # Denis Vishnevski
 
 [English](#id0) [Русский](#id1) Polski
