@@ -73,7 +73,7 @@ I want to make full use of my creative potential to help create interesting proj
 ## Education
 ##### Krasnodar College of Music. N. A. Rimsky-Korsakov (2017 - in progress)
 * Specialty Instrumental performance. Orchestral string instruments
-* From the 2nd year I started working in a college as a sound engineer (I conducted all the events of both the college and the tenants of the concert hall)
+* <a id="id1"></a> From the 2nd year I started working in a college as a sound engineer (I conducted all the events of both the college and the tenants of the concert hall)
 
 ___
 
@@ -83,7 +83,6 @@ ___
 
 English Русский Polski
 
-<a id="id1"></a> d
 ___
 
 ###### Желаемая должность:
