@@ -1,6 +1,6 @@
 <a id="id2"></a>
 <br>
-
+<br>
 # Denis Vishnevski
 
 [English](#id0) [Русский](#id1) [Polski](#id3)
@@ -68,7 +68,7 @@ I want to make full use of my creative potential to help create interesting proj
 ## Experience
 #### My first project (May 2021 - June 2021)
 ###### Project Creator, Project Manager, Developer, Game Designer
-* worked out the idea of the runner, as far as possible, implemented my ideas and ideas of the project participants
+* worked out the idea of the runner, as far as possible implemented both my ideas and the ideas of the project participants
 * almost all the code was written using only the Unity documentation
 * led the team that created all 3d models and sound design
 * I plan to implement a system for purchasing skins for in-game currency and unlocking new locations for gaming experience
@@ -76,7 +76,8 @@ I want to make full use of my creative potential to help create interesting proj
 ## Education
 ##### Krasnodar College of Music. N. A. Rimsky-Korsakov (2017 - in progress)
 * Specialty Instrumental performance. Orchestral string instruments
-* <a id="id1"></a> From the 2nd year I started working in a college as a sound engineer (I conducted all the events of both the college and the tenants of the concert hall)
+* From the 2nd year I started working in a college as a sound engineer (I conducted all the events of both the college and the tenants of the concert hall)
+<a id="id1"></a>
 
 ___
 
@@ -132,10 +133,10 @@ itsmoyapochta@gmail.com
 * Умение в нужной ситуации находить новые нестандартные решения, используя имеющиеся ресурсы
 * Возможность предоставить новые решения сверх поставленной задачи
 
-##### Умение работать в команде
-* Уважительное отношение к коллективу
-* Способность в нужный момент выполнять точно поставленную задачу
-* Опыт работы как в большом, так и в маленьком коллективах, приобретенный в музыкальном колледже
+##### Умение работать в команде:
+* Уважительное отношение к коллективу;
+* Способность в нужный момент выполнять точно поставленную задачу;
+* Опыт работы как в большом, так и в маленьком коллективах, приобретенный в музыкальном колледже;
 * Способность давать и получать конструктивную обратную связь;
 
 
@@ -153,7 +154,7 @@ itsmoyapochta@gmail.com
 ## Опыт работы
 #### Мой первый проект (Май 2021 - Июнь 2021)
 ###### Создатель и руководитель проекта, Разработчик , Гейм-дизайнер
-* проработал идею раннера, по мере своих возможностей реализовывал свои идеи и идеи участников проекта
+* проработал идею раннера, по мере своих возможностей реализовывал как свои идеи, так и идеи участников проекта
 * практически весь код писал, используя только документацию Unity
 * руководил командой, создавшей все 3d модели и звуковое оформление
 * планирую реализовать систему покупок скинов за внутриигровую валюту и разблокировку новых локаций за игровой опыт
@@ -162,8 +163,8 @@ itsmoyapochta@gmail.com
 ## Образование
 ##### Краснодарский музыкальный колледж им. Н. А. Римского-Корсакова (2017 - в процессе)
 * Специальность Инструментальное исполнительство. Оркестровые струнные инструменты
-* <a id="id3"></a> Со 2 курса начал работать в колледже звукооператором (проводил все мероприятия как колледжа, так и арендаторов концертного зала)
-
+* Со 2 курса начал работать в колледже звукооператором (проводил все мероприятия как колледжа, так и арендаторов концертного зала)
+<a id="id3"></a>
 ___
 
 ___
@@ -175,7 +176,7 @@ ___
 ___
 
 ###### Pożądane stanowisko:
-Programista Unity, programista C# / .NET
+Unity Developer, C# / .NET Developer
 
 ###### Lokalizacja poszuku:
 * Praca na odległość
@@ -230,22 +231,22 @@ Chcę w pełni wykorzystać swój potencjał twórczy, aby pomóc w tworzeniu ci
   - nowy projekt
   - nowe zadania
   - nowe oprogramowanie
-  - Nowa drużyna
+  - nowa drużyna
 
 ##### Umiejętności techniczne
 * C #
-* Jedność
+* Unity3d
 
 ## Doświadczenie zawodowe
 #### Mój pierwszy projekt (maj 2021 – czerwiec 2021)
-###### Twórca i kierownik projektu, programista, projektant gier
-* opracował pomysł biegacza, w miarę możliwości, wdrożył jego pomysły i pomysły uczestników projektu
+###### Project Creator, Project Manager, Developer, Game Designer
+* opracowałem pomysł na grę, w miarę możliwości wdrożyłem zarówno moje pomysły, jak i pomysły uczestników projektu
 * prawie cały kod został napisany przy użyciu wyłącznie dokumentacji Unity
 * kierował zespołem, który stworzył wszystkie modele 3d i projektowanie dźwięku
 * Planuję wdrożyć system kupowania skórek za walutę w grze i odblokowywania nowych lokalizacji do gry
 
 
 ## Edukacja
-##### Wyższa Szkoła Muzyczna w Krasnodarze. N. A. Rimsky-Korsakov (2017 - w trakcie)
+##### Technikum Muzyczna w Krasnodarze N. A. Rimsky-Korsakov (2017 - w trakcie)
 * Specjalność instrumentalna. Orkiestrowe instrumenty smyczkowe
-* Od 2 roku rozpoczął pracę w szkole wyższej jako realizator dźwięku (dyrygował wszystkimi wydarzeniami zarówno uczelni jak i najemców sali koncertowej)
+* Od 2 roku rozpoczął pracę w szkole wyższej jako realizator dźwięku (dyrygował wszystkimi wydarzeniami zarówno technikum jak i najemców sali koncertowej)
