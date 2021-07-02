@@ -1,6 +1,6 @@
 # Denis Vishnevski
 
-English [Русский](https://github.com/DenisVishnevski#%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%B2%D0%B8%D1%88%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9) Polski
+English [Русский](#id1) Polski
 ___
 
 
@@ -79,11 +79,11 @@ ___
 
 ___
 
-# <a name="Parag"></a> Денис Вишневский
+# Денис Вишневский
 
 English Русский Polski
 
-[2]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+<a id="id1"></a> d
 ___
 
 ###### Желаемая должность:
