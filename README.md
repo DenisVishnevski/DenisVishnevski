@@ -77,11 +77,15 @@ I want to make full use of my creative potential to help create interesting proj
 ##### Krasnodar College of Music. N. A. Rimsky-Korsakov (2017 - in progress)
 * Specialty Instrumental performance. Orchestral string instruments
 * From the 2nd year I started working in a college as a sound engineer (I conducted all the events of both the college and the tenants of the concert hall)
+
+
+___
+
+___
+
 <a id="id1"></a>
-
-___
-
-___
+<br>
+<br>
 
 # Денис Вишневский
 
@@ -164,10 +168,13 @@ itsmoyapochta@gmail.com
 ##### Краснодарский музыкальный колледж им. Н. А. Римского-Корсакова (2017 - в процессе)
 * Специальность Инструментальное исполнительство. Оркестровые струнные инструменты
 * Со 2 курса начал работать в колледже звукооператором (проводил все мероприятия как колледжа, так и арендаторов концертного зала)
-<a id="id3"></a>
+
 ___
 
 ___
+<a id="id3"></a>
+<br>
+<br>
 
 # Denis Wiszniewski
 
