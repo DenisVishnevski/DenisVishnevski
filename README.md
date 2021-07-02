@@ -3,7 +3,7 @@
 
 # Denis Vishnevski
 
-[English](#id0) [Русский](#id1) Polski
+[English](#id0) [Русский](#id1) [Polski](id3)
 ___
 
 
@@ -84,7 +84,7 @@ ___
 
 # Денис Вишневский
 
-[English](#id2) [Русский](#id0) Polski
+[English](#id2) [Русский](#id0) [Polski](id3)
 
 ___
 
@@ -162,4 +162,90 @@ itsmoyapochta@gmail.com
 ## Образование
 ##### Краснодарский музыкальный колледж им. Н. А. Римского-Корсакова (2017 - в процессе)
 * Специальность Инструментальное исполнительство. Оркестровые струнные инструменты
-* Со 2 курса начал работать в колледже звукооператором (проводил все мероприятия как колледжа, так и арендаторов концертного зала)
+* <a id="id3"></a> Со 2 курса начал работать в колледже звукооператором (проводил все мероприятия как колледжа, так и арендаторов концертного зала)
+
+___
+
+___
+
+# Denis Wiszniewski
+
+[English](#id2) [Русский](#id1) [Polski](id0)
+
+___
+
+###### Pożądane stanowisko:
+Programista Unity, programista C# / .NET
+
+###### Lokalizacja poszuku:
+* Praca na odległość
+* Przeprowadzka do innego kraju
+
+###### Data urodzenia:
+15.02.2001 (wiek 20)
+
+###### Obywatelstwo:
+Federacja Rosyjska
+
+###### Adres:
+Krasnodar, Rosja
+
+## Łączność
+
+###### E-mail:
+itsmoyapochta@gmail.com
+
+###### Telegram:
++7 (918) 336-49-19
+
+
+## Cel
+
+Student technikum muzycznej, sam od roku aktywnie przekwalifikowuję się na programistę i zamierzam pracować przy tworzeniu gier.
+Chcę w pełni wykorzystać swój potencjał twórczy, aby pomóc w tworzeniu ciekawych projektów, a także pracowitość i umiejętność szybkiego uczenia się, aby w przyszłym roku zostać deweloperem Middle.
+
+
+
+
+## Umiejętności
+
+##### Gorliwość
+* Zaangażowanie w naukę i samorozwój, umiejętność szybkiego uczenia się
+* Poczucie odpowiedzialności wobec zespołu podczas wykonywania wspólnego zadania
+* Umiejętność wykonywania długiej i żmudnej pracy (przez dwa lata prowadził koncerty i inne imprezy trwające od 2 do 10 godzin jako realizator dźwięku)
+
+##### Kreatywność
+* Umiejętność znalezienia w odpowiedniej sytuacji nowych niestandardowych rozwiązań z wykorzystaniem dostępnych zasobów
+*Chęć zaproponowania nowych rozwiązań uzupełniających zadanie.
+
+##### Umiejętności pracy w grupie
+* Szacunek dla zespołu
+* Umiejętność dokładnego wykonania zadania we właściwym czasie
+* Doświadczenie zawodowe zarówno w dużych, jak i małych grupach, zdobyte na technikum muzycznej
+* Umiejętność udzielania i otrzymywania konstruktywnych informacji zwrotnych;
+
+
+##### Zdolnośc do adaptacji
+* Szybko dostosowuję się do:
+  - nowy projekt
+  - nowe zadania
+  - nowe oprogramowanie
+  - Nowa drużyna
+
+##### Umiejętności techniczne
+* C #
+* Jedność
+
+## Doświadczenie zawodowe
+#### Mój pierwszy projekt (maj 2021 – czerwiec 2021)
+###### Twórca i kierownik projektu, programista, projektant gier
+* opracował pomysł biegacza, w miarę możliwości, wdrożył jego pomysły i pomysły uczestników projektu
+* prawie cały kod został napisany przy użyciu wyłącznie dokumentacji Unity
+* kierował zespołem, który stworzył wszystkie modele 3d i projektowanie dźwięku
+* Planuję wdrożyć system kupowania skórek za walutę w grze i odblokowywania nowych lokalizacji do gry
+
+
+## Edukacja
+##### Wyższa Szkoła Muzyczna w Krasnodarze. N. A. Rimsky-Korsakov (2017 - w trakcie)
+* Specjalność instrumentalna. Orkiestrowe instrumenty smyczkowe
+* Od 2 roku rozpoczął pracę w szkole wyższej jako realizator dźwięku (dyrygował wszystkimi wydarzeniami zarówno uczelni jak i najemców sali koncertowej)
