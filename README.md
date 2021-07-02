@@ -1,6 +1,8 @@
-# Denis Vishnevski
 
-English [Русский](#id1) Polski
+
+# <a id="id2"></a> Denis Vishnevski
+
+[English](#id0) [Русский](#id1) Polski
 ___
 
 
@@ -81,7 +83,7 @@ ___
 
 # Денис Вишневский
 
-English Русский Polski
+[English](#id2) [Русский](#id0) Polski
 
 ___
 
