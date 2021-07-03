@@ -1,6 +1,7 @@
 <a id="id2"></a>
 <br>
 <br>
+
 # Denis Vishnevski
 
 [English](#id0 "CV in English") [Русский](#id1 "Резюме на русском языке") [Polski](#id3 "CV w języku polskim")
@@ -62,15 +63,15 @@ I want to make full use of my creative potential to help create interesting proj
    - new team
 
 ###### Technical
-* C #
+* C#
 * Unity3d
 
 ## Experience
 #### My first project (May 2021 - June 2021)
 ###### Project Creator, Project Manager, Developer, Game Designer
-* worked out the idea of the runner, as far as possible implemented both my ideas and the ideas of the project participants
-* almost all the code was written using only the Unity documentation
-* led the team that created all 3d models and sound design
+* Worked out the idea of the runner, as far as possible implemented both my ideas and the ideas of the project participants
+* Almost all the code was written using only the Unity documentation
+* Led the team that created all 3d models and sound design
 * I plan to implement a system for purchasing skins for in-game currency and unlocking new locations for gaming experience
 
 ## Education
@@ -138,10 +139,10 @@ itsmoyapochta@gmail.com
 * Возможность предоставить новые решения сверх поставленной задачи
 
 ##### Умение работать в команде:
-* Уважительное отношение к коллективу;
-* Способность в нужный момент выполнять точно поставленную задачу;
-* Опыт работы как в большом, так и в маленьком коллективах, приобретенный в музыкальном колледже;
-* Способность давать и получать конструктивную обратную связь;
+* Уважительное отношение к коллективу
+* Способность в нужный момент выполнять точно поставленную задачу
+* Опыт работы как в большом, так и в маленьком коллективах, приобретенный в музыкальном колледже
+* Способность давать и получать конструктивную обратную связь
 
 
 ##### Умение адаптироваться
@@ -153,15 +154,15 @@ itsmoyapochta@gmail.com
 
 ##### Технические навыки
 * C#
-* Unity
+* Unity3d
 
 ## Опыт работы
 #### Мой первый проект (Май 2021 - Июнь 2021)
 ###### Создатель и руководитель проекта, Разработчик , Гейм-дизайнер
-* проработал идею раннера, по мере своих возможностей реализовывал как свои идеи, так и идеи участников проекта
-* практически весь код писал, используя только документацию Unity
-* руководил командой, создавшей все 3d модели и звуковое оформление
-* планирую реализовать систему покупок скинов за внутриигровую валюту и разблокировку новых локаций за игровой опыт
+* Проработал идею раннера, по мере своих возможностей реализовывал как свои идеи, так и идеи участников проекта
+* Практически весь код писал, используя только документацию Unity
+* Руководил командой, создавшей все 3d модели и звуковое оформление
+* Планирую реализовать систему покупок скинов за внутриигровую валюту и разблокировку новых локаций за игровой опыт
 
 
 ## Образование
@@ -169,9 +170,14 @@ itsmoyapochta@gmail.com
 * Специальность Инструментальное исполнительство. Оркестровые струнные инструменты
 * Со 2 курса начал работать в колледже звукооператором (проводил все мероприятия как колледжа, так и арендаторов концертного зала)
 
+<br>
+<br>
+Скачать PDF
+
 ___
 
 ___
+
 <a id="id3"></a>
 <br>
 <br>
@@ -244,16 +250,21 @@ Chcę w pełni wykorzystać swój potencjał twórczy, aby pomóc w tworzeniu ci
 * C #
 * Unity3d
 
-## Doświadczenie zawodowe
+## Doświadczenie
 #### Mój pierwszy projekt (maj 2021 – czerwiec 2021)
 ###### Project Creator, Project Manager, Developer, Game Designer
-* opracowałem pomysł na grę, w miarę możliwości wdrożyłem zarówno moje pomysły, jak i pomysły uczestników projektu
-* prawie cały kod został napisany przy użyciu wyłącznie dokumentacji Unity
-* kierował zespołem, który stworzył wszystkie modele 3d i projektowanie dźwięku
+* Opracowałem pomysł biegacza, na ile mogłem, zrealizowałem zarówno swoje pomysły, jak i pomysły uczestników projektu
+* Prawie cały kod został napisany przy użyciu wyłącznie dokumentacji Unity
+* Nadzorował zespół, który stworzył wszystkie modele 3D i projektowanie dźwięku
 * Planuję wdrożyć system kupowania skórek za walutę w grze i odblokowywania nowych lokalizacji do gry
 
 
-## Edukacja
+## Wykształcenie
 ##### Technikum Muzyczna w Krasnodarze N. A. Rimsky-Korsakov (2017 - w trakcie)
 * Specjalność instrumentalna. Orkiestrowe instrumenty smyczkowe
 * Od 2 roku rozpoczął pracę w szkole wyższej jako realizator dźwięku (dyrygował wszystkimi wydarzeniami zarówno technikum jak i najemców sali koncertowej)
+
+<br>
+<br>
+<br>
+Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w ofercie pracy w zakresie niezbędnym do przeprowadzenia rekrutacji (zgodnie z Ustawą o ochronie danych osobowych. Dz. Ust. Nr 133 poz. 833 z dnia 29.08.1997)
