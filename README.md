@@ -230,7 +230,7 @@ Chcę w pełni wykorzystać swój potencjał twórczy, aby pomóc w tworzeniu ci
 
 ##### Kreatywność
 * Umiejętność znalezienia w odpowiedniej sytuacji nowych niestandardowych rozwiązań z wykorzystaniem dostępnych zasobów
-*Chęć zaproponowania nowych rozwiązań uzupełniających zadanie.
+* Chęć zaproponowania nowych rozwiązań uzupełniających zadanie.
 
 ##### Umiejętności pracy w grupie
 * Szacunek dla zespołu
