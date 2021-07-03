@@ -79,6 +79,9 @@ I want to make full use of my creative potential to help create interesting proj
 * Specialty Instrumental performance. Orchestral string instruments
 * From the 2nd year I started working in a college as a sound engineer (I conducted all the events of both the college and the tenants of the concert hall)
 
+<br>
+<br>
+<a id="raw-url" href="https://github.com/DenisVishnevski/DenisVishnevski/raw/9641f0ecc595cc7ec90ac895bccd68ee9bbb0725/CV/Denis%20Vishnevski.pdf">Download PDF</a>
 
 ___
 
@@ -172,7 +175,7 @@ itsmoyapochta@gmail.com
 
 <br>
 <br>
-Скачать PDF
+<a id="raw-url" href="https://github.com/DenisVishnevski/DenisVishnevski/raw/9641f0ecc595cc7ec90ac895bccd68ee9bbb0725/CV/%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20%D0%92%D0%B8%D1%88%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.pdf">Скачать PDF</a>
 
 ___
 
@@ -265,6 +268,9 @@ Chcę w pełni wykorzystać swój potencjał twórczy, aby pomóc w tworzeniu ci
 * Od 2 roku rozpoczął pracę w szkole wyższej jako realizator dźwięku (dyrygował wszystkimi wydarzeniami zarówno technikum jak i najemców sali koncertowej)
 
 <br>
+
+###### Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w ofercie pracy w zakresie niezbędnym do przeprowadzenia rekrutacji (zgodnie z Ustawą o ochronie danych osobowych. Dz. Ust. Nr 133 poz. 833 z dnia 29.08.1997)
+
 <br>
 <br>
-Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w ofercie pracy w zakresie niezbędnym do przeprowadzenia rekrutacji (zgodnie z Ustawą o ochronie danych osobowych. Dz. Ust. Nr 133 poz. 833 z dnia 29.08.1997)
+<a id="raw-url" href="https://github.com/DenisVishnevski/DenisVishnevski/raw/9641f0ecc595cc7ec90ac895bccd68ee9bbb0725/CV/Denis%20Wiszniewski.pdf">Pobierz PDF</a>
