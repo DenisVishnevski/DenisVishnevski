@@ -84,7 +84,7 @@
 <tr>
     <td width='320px'>
       <a href='https://denis-vishnevski.vercel.app' title='Go to website'>
-        <img src='https://denis-vishnevski.vercel.app/static/media/denisVishnevskiDesktop.3f306a1f3255960c7097.png' width='300px'>
+        <img src='https://denis-vishnevski.vercel.app/static/media/denisVishnevskiDesktop.9462e01d52943bf5f1f0.png' width='300px'>
       </a>
     </td>
     <td>
