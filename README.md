@@ -1,5 +1,5 @@
-﻿<h2>Hello! My name is Denis<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"></h2>
-<p>I'm a front-end developer! I like programming and I like JavaScript! Every day I try to improve my skills, I strive to write well-read and easily maintainable code. You can find more about me on my portfolio website, I hope you enjoy it!</p>
+<h2>Hello! My name is Denis<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"></h2>
+<p>I'm a JavaScript developer! Every day I try to improve my skills, I strive to write well-read and easily maintainable code. You can find more about me on my portfolio website, I hope you enjoy it!</p>
 <a href="https://denis-vishnevski.vercel.app">
   <p>Click to go to my portfolio website!</p>
 </a>
@@ -63,24 +63,6 @@
     </td>
   </tr>
   
-   <tr>
-    <td width='320px'>
-      <a href='http://andreyrudenko1-001-site1.atempurl.com' title='Go to website'>
-        <img src='https://denis-vishnevski.vercel.app/static/media/andreyRudenkoDesktop.061477320d1b53f5f88a.png' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='http://andreyrudenko1-001-site1.atempurl.com' title='Go to website'>Landing for a photographer</a></h3>
-      <p>React, Redux, TypeScript</p>
-      <a href="https://github.com/DenisVishnevski/AndreyRudenko">
-        <p>Open repository ---></p>
-      </a>
-      <a href="http://andreyrudenko1-001-site1.atempurl.com">
-        <p>Go to website ---></p>
-      </a>
-    </td>
-  </tr>
-    
 <tr>
     <td width='320px'>
       <a href='https://denis-vishnevski.vercel.app' title='Go to website'>
